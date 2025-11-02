@@ -1,6 +1,9 @@
 
 # GAN API (Assignment 3)
 
+### Run all commands from the repository root (where app/ and helper_lib/ live).
+
+
 ## Train
 ```bash
 python -m venv .venv && source .venv/bin/activate   # macOS/Linux
